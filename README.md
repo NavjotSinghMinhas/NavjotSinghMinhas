@@ -22,6 +22,6 @@ Computer Science student at [Conestoga College](https://www.conestogac.on.ca) in
 
 ### 📬 Profile Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=NavjotSinghMinhas&show_icons=true&count_private=false" alt="statistics" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavjotSinghMinhas&layout=compact" alt="top languages" /></p>
+<p><img width="419px" src="https://github-readme-stats.vercel.app/api?username=NavjotSinghMinhas&show_icons=true&count_private=false" alt="statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavjotSinghMinhas&layout=compact" alt="top languages" /></p>
 <p><img src="https://api.visitorbadge.io/api/visitors?path=NavjotSinghMinhas&countColor=%23263759" alt="visitors"></p>
