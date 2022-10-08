@@ -12,7 +12,7 @@ Computer Science student at [Conestoga College](https://www.conestogac.on.ca) in
 
 - 🔭 Post-Graduation diploma in **Big Data Solution Architecture**, Bachelor's degree in **Computer Science** from MDU.
 - 🌱 I’m currently looking for full-time employment.
-- 🌱 I’m <s>currently</s> always learning new stuff
+- ⚡ I’m <s>currently</s> always learning new stuff
 - ⚙️ Mastering: `.cs`,`.xaml`,`.html`,`.css`,`.js`
 - 👯 I’m looking to collaborate on **C#** projects
 
