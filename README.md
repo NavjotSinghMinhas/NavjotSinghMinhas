@@ -12,7 +12,6 @@ Computer Science student at [Conestoga College](https://www.conestogac.on.ca) in
 
 - 🔭 Post-Graduation diploma in **Big Data Solution Architecture**, Bachelor's degree in **Computer Science** from MDU.
 - 🌱 I’m currently looking for full-time employment.
-- 🌱 I’m currently building **Open Source White Board Animation software** and **Roadmap for learning C# from beginner to expert**
 - ⚙️ Mastering: `.cs`,`.xaml`, `.html`,`.css`,`.js`
 - 👯 I’m looking to collaborate on **C#** projects
 
